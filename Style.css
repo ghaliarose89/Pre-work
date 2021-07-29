@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+.red {
+    color:red;
+}
+
+
+.blue{
+    color: blue;
+    }
+.green{ 
+    color: green;
+    }
+.font {
+     font-family: cursive;
+
+     }
+.center{  
+    text-align: center;}
+.bold{
+     font-weight: bold;}
+.fontsize{ 
+    font-family: Arial;}
+.styledFont {
+    font-style: italic; color: green; font-size: x-large;
+}
+.combin {
+    font-weight: bold; color: orange; font-size: xx-large;
+}
+#styledImage {
+    border: 5px solid orange;
+        }
